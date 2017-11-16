@@ -10,6 +10,8 @@ C.-C. K. N. S. C. O. a. M. D. 1. Kai Zhang, "Stable small bubble clusters in two
 # How to use demo images:
 Please place "CNN_demo.zip" and "6bubblepreprocess.py" into the same folder. 
 
+Acknowledgement: Nathaniel See for his contribution to the configuration classification 
+
 # Demo of the code:
 # The raw image from the experimental setup for bubble cluster automatic generate![Figure_0](https://raw.githubusercontent.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s/master/Figure_0.png)
 # Filter the cluster composed by 3 large and 3 small bubbles![Figure_1](https://raw.githubusercontent.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s/master/Figure_1.png)
