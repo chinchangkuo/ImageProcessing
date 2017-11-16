@@ -1,10 +1,8 @@
 # Introduction:
 This is the repository for identifying bubble cluster configurations composed of 3 large and 3 small bubbles. The image processing algorithm "6bubblepreprocess.py" is  used for: 
 1. Detect the bubble cluster 
-2. Filter the size of bubble clusters composed by different numbers  
-    of large and small bubbles
-3. Focus on 3 large and 3 small bubble cluster to classify the   
-    configurations
+2. Filter the size of bubble clusters composed by different numbers of large and small bubbles
+3. Focus on 3 large and 3 small bubble cluster to classify the configurations
 
 # The raw image from the experimental setup for bubble cluster automatic generate![Cluster&Probability](https://raw.githubusercontent.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s/master/Figure_0.png)
 # Filter the cluster composed by 3 large and 3 small bubbles![Cluster&Probability](https://raw.githubusercontent.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s/master/Figure_1.png)
